@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on Building  Data pipelines, AI projects.<br><br>🤝 I’m looking to collaborate on Open-source Data engineering tools, AI projects, .<br><br>🙌 I’m looking for help with Improving advanced SQL queries, optimizing pipelines.<br><br>🌱 I’m currently learning Advanced data engineering concepts.
+🛠️ I’m currently working on Building  Data pipelines, AI projects.<br>🤝 I’m looking to collaborate on Open-source Data engineering tools, AI projects, .<br>🙌 I’m looking for help with Improving advanced SQL queries, optimizing pipelines.<br>🌱 I’m currently learning Advanced data engineering concepts.
 
 
 # 💻 Tech Stack:
