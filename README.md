@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on Building  Data pipelines, AI projects.<br>🤝 I’m looking to collaborate on Open-source Data engineering tools, AI projects, .<br>🙌 I’m looking for help with Improving advanced SQL queries, optimizing pipelines.<br>🌱 I’m currently learning Advanced data engineering concepts.
+-I’m a DataOps & Data Engineering Specialist passionate about building reliable and scalable data systems.<br>- I’m currently learning advanced data engineering concepts and working on data pipelines and AI projects.<br>- I’m looking to collaborate on open-source projects related to Data Engineering tools and Artificial Intelligence.<br>- I’m seeking guidance on optimizing pipelines and improving advanced SQL queries.<br>Tools & Interests: Python, Spark, Databricks, TensorFlow, SQL, DataOps, ML pipelines.
 
 
 # 💻 Tech Stack:
